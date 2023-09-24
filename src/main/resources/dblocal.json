@@ -1,0 +1,5 @@
+{
+  "url": "jdbc:mysql://localhost:3306/java_spu121?useUnicode=true&characterEncoding=UTF-8",
+  "user": "spu121",
+  "password": "pass121"
+}

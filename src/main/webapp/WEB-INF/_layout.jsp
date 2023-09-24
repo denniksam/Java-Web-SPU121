@@ -20,6 +20,7 @@
       <li class="<%="".equals(pageBody)?"active":"" %>"><a href="<%= context %>/about-jsp.jsp">JSP</a></li>
       <li class="<%="about.jsp".equals(pageBody)?"active":"" %>"><a href="<%= context %>/about">Servlet</a></li>
       <li class="<%="filter.jsp".equals(pageBody)?"active":"" %>"><a href="<%= context %>/filter">Filter</a></li>
+      <li class="<%="ioc.jsp".equals(pageBody)?"active":"" %>"><a href="<%= context %>/ioc">IoC</a></li>
     </ul>
   </div>
 </nav>
